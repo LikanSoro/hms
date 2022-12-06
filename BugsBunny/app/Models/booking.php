@@ -11,4 +11,4 @@ class booking extends Model
 }
 
 
-<h1>hello madafaka</h1>
+<h1>hello nigga 123</h1>
