@@ -9,3 +9,6 @@ class booking extends Model
 {
     use HasFactory;
 }
+
+
+<h1>hello</h1>
